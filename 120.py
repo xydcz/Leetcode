@@ -1,4 +1,3 @@
-
 def trace(num):
     s = 0
     for i in num:

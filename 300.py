@@ -1,5 +1,3 @@
-
-
 def lenthOfLTS(nums):
     dp = [1] * len(nums)
     print(dp)

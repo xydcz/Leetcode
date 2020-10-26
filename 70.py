@@ -7,4 +7,5 @@ def cs(n):
         b, a = a+b, b
     return b
 
+
 print(cs(6))
