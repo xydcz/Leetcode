@@ -10,6 +10,5 @@ def dp(coins, amount):
 
 
 coins = [1, 2, 5]
-# coins = [2]
 amount = 11
 print(dp(coins, amount))
