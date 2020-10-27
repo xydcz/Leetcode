@@ -9,3 +9,4 @@ def cs(n):
 
 
 print(cs(6))
+
